@@ -104,7 +104,7 @@ Use this section to recap over some of your major learnings while working throug
 ##### ![HTML](./screenshots/icons/html.png) HTML
 I've reinforced my basic skills of HTML and got a better understanding of the semantic tags
 
-##### ![CSS](./screenshots/icons/css3.png.png) CSS
+##### ![CSS](./screenshots/icons/css3.png) CSS
 With this project I was able to retake my previous knowledge of CSS, and get a better grasp of the basics as well as train my capacity to do responsive contents.
 I also learned about the new max(), min() and clamp() functions to implement on my next projects.
 
