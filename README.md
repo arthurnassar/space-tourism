@@ -132,7 +132,7 @@ The JSON handling methods that I learned with this project will be fundamental t
 ##### ![HTML](./screenshots/icons/html.png) HTML
 Reforcei minhas habilidades básicas de HTML e entendi melhor as tags semânticas
 
-##### ![CSS](./screenshots/icons/css3.png.png) CSS
+##### ![CSS](./screenshots/icons/css3.png) CSS
 Com este projeto pude retomar meus conhecimentos prévios de CSS, entender melhor o básico e treinar minha capacidade de fazer conteúdos responsivos.
 Também aprendi sobre as novas funções max(), min() e clamp() para implementar em meus próximos projetos.
 
@@ -150,13 +150,11 @@ Só posso dizer que estou impressionado com a força que essa ferramenta oferece
 Estou estudando esse framework há cerca de 2 meses... E neste projeto senti que usei em seu pleno potencial.
 Neste projeto consegui solidificar meus fundamentos e entender melhor como usar toda a reatividade com manipulação de dados, computed properties e métodos para exibir componentes reativos com interpolações.
 
-##### [Vue Router](https://router.vuejs.org/) Vue Router
+##### [Vue Router](https://router.vuejs.org/)
 Com o Vue router tive que fazer muitas pesquisas por conta de alguns problemas que tive na hora de configurar minhas rotas, mas consegui corrigi-los facilmente e tive que dar uma espiada na documentação, no processo aprendi algumas coisas que, apesar de não usar neste projeto, serão muito úteis em casos específicos.
 
 ##### ![JSON](./screenshots/icons/file.png) Arquivos JSON
 Os métodos de manipulação de JSON que aprendi com este projeto serão fundamentais para minha capacidade de lidar com solicitações de banco de dados. Já tinha alguma experiência na área, mas com este projeto solidifiquei meus conhecimentos.
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Useful resources
@@ -178,17 +176,17 @@ Aprendi tantas coisas nesse projeto, mas infelizmente não gravei as URLs, mas p
 ## Acknowledgments
 
 ### Icons
-<a href="https://iconscout.com/icons/html" target="_blank">Html Icon</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
-<a href="https://iconscout.com/icons/sass" target="_blank">Sass Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
-<a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a>
-<a href="https://iconscout.com/icons/vue" target="_blank">Vue Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
-<a href="https://iconscout.com/icons/file" target="_blank">File Icon</a> by <a href="https://iconscout.com/contributors/mcgandhi61" target="_blank">Mohit Gandhi</a>
-<a href="https://iconscout.com/icons/css3" target="_blank">Css3 Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a>
-<a href="https://iconscout.com/icons/bootstrap" target="_blank">Bootstrap Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a>
+<a href="https://iconscout.com/icons/html" target="_blank">Html Icon</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a> /
+<a href="https://iconscout.com/icons/sass" target="_blank">Sass Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a> /
+<a href="https://iconscout.com/icons/javascript" target="_blank">Javascript Icon</a> by <a href="https://iconscout.com/contributors/jagathish" target="_blank">Jagathish Saravanan</a> /
+<a href="https://iconscout.com/icons/vue" target="_blank">Vue Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a> /
+<a href="https://iconscout.com/icons/file" target="_blank">File Icon</a> by <a href="https://iconscout.com/contributors/mcgandhi61" target="_blank">Mohit Gandhi</a> /
+<a href="https://iconscout.com/icons/css3" target="_blank">Css3 Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia" target="_blank">Icon Mafia</a> /
+<a href="https://iconscout.com/icons/bootstrap" target="_blank">Bootstrap Icon</a> by <a href="https://iconscout.com/contributors/icon-mafia">Icon Mafia</a> /
 
-[Reddit](https://www.reddit.com/)
-[Stack overflow](https://stackoverflow.com/)
-[Youtube](https://www.youtube.com/)
+[Reddit](https://www.reddit.com/) / 
+[Stack overflow](https://stackoverflow.com/) /
+[Youtube](https://www.youtube.com/) 
 
 ## Screenshot
 
