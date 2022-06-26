@@ -1,0 +1,52 @@
+$primary_color: #0B0D17;
+$secondary_color: #D0D6F9;
+$tertiary_color: #FFFFFF;
+
+$hover_color: rgba(255, 255, 255, 0.5);
+
+$font-sizes: (
+    'heading-1': 9.375rem,
+    'heading-2': 6rem,
+    'heading-3': 4rem,
+    'heading-4': 2rem,
+    'heading-5': 1.8rem,
+    'subheading-1': 1.8rem,
+    'subheading-2': 0.9rem,
+    'nav-text': 1rem,
+    'body-text': 1.1rem,
+);
+
+$font-families: (
+    'heading-1': "Bellefair",
+    'heading-2': "Bellefair",
+    'heading-3': "Bellefair",
+    'heading-4': "Bellefair",
+    'heading-5': "Barlow Condensed",
+    'subheading-1': "Bellefair",
+    'subheading-2': "Barlow Condensed",
+    'nav-text': "Bellefair",
+    'body-text': "Barlow"
+);
+
+$letter-spacing: (
+    'heading-5': 4.75px,
+    'subheading-2': 2.35px,
+    'nav-text': 2.7px,
+);
+
+$typographies:
+    "heading-1", 
+    "heading-2", 
+    "heading-3", 
+    "heading-4", 
+    "heading-5", 
+    "subheading-1", 
+    "subheading-2", 
+    "nav-text", 
+    "body-text";
+    
+$grid-breakpoints: (
+    "mobile": 800px,
+    "tablet": 1280px,
+    "desktop": 1440px,
+);

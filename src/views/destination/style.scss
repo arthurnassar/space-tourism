@@ -1,0 +1,107 @@
+@import '@/assets/scss/fonts';
+@import '@/assets/scss/global_style';
+@import './responsive';
+
+body {
+    padding-right: 0 !important;
+}
+
+.app {
+    background-image: url(@/assets/destination/background-destination-desktop.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 18vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 15vh;
+    overflow: hidden;
+
+    .page__title {
+        color: $tertiary_color;
+        padding-left: 10vw;
+        margin-bottom: 50px;
+
+            .number {
+                opacity: 25%;
+            }
+            
+    }
+}
+
+
+main {
+    margin: 0;
+    height: 100% !important;
+    color: white;
+    display: flex;
+
+    // SEÇÃO QUE RECEBE O TITULO DA PAGINA E A FOTO DO PLANETA
+    .planet__section {
+            width: 55%;
+
+            img {
+                width: 50%;
+            }
+
+            
+    }
+
+    .description__section {
+        width: 30%;
+
+        .text--description {
+            width: 80%;
+        }
+
+        hr {
+            width: 80%;
+        }
+    
+        .planet_specs--container {
+            display: flex !important;
+            flex-direction: row !important;
+            gap: 50px;
+            padding-top: 40px;
+            justify-content: flex-start;
+            text-align: center;
+        }
+    }
+
+    
+}
+
+
+
+
+
+.nav-text {
+    font-size: 16px;
+    letter-spacing: 2.7px;
+}
+
+.subheading2 {
+    font-size: 14px;
+    letter-spacing: 2.35px;
+}
+
+.subheading1 {
+    font-size: 28px;
+}
+
+.heading2 {
+    font-size: 100px;
+}
+
+.number-indication {
+    font-weight: 700;
+    letter-spacing: 4.72px;
+    opacity: 25%;
+}
+
+.text-description {
+    line-height: 32px;
+    color: #d0d6f9;
+}
+

@@ -1,0 +1,41 @@
+@import './variables';
+@import './fonts';
+
+.tab {
+    text-decoration: none;
+    list-style: none;
+    height: 40px;
+
+    &.active {
+        border-bottom: 3px solid $tertiary_color;
+    }
+
+    &:hover {
+        cursor: url(@/assets/shared/pointer.png), auto;
+        border-bottom: 3px solid $hover_color;
+    }
+
+    .number {
+        font-weight: 700;
+
+    }
+}
+
+.slider-1 {
+    &:hover {
+    cursor: url(@/assets/shared/pointer.png), auto;
+    background-color: $hover_color;
+    }
+}
+
+.slider-2 {
+    &:hover {
+    border: 1px solid $tertiary_color;
+    }
+}
+
+.landing-btn {
+    &:hover {
+        box-shadow: 0px 0px 0px 88px $hover_color;
+    }
+}

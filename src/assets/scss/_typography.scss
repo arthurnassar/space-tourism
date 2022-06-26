@@ -1,0 +1,27 @@
+@import './fonts';
+
+.teste {
+    @include font-size(heading-2);
+    @include font-family(heading-1)
+}
+
+.teste1 {
+    display: none;
+}
+
+ @each $class in $typographies {
+    @if($class == body-text) {
+        .#{$class} {
+                @include font-size($class);
+                @include font-family($class);
+                @include letter-spacing($class);
+                line-height: 32px;
+            }
+    } @else {
+        .#{$class} {
+                @include font-size($class);
+                @include font-family($class);
+                @include letter-spacing($class);
+            }
+    }
+ }

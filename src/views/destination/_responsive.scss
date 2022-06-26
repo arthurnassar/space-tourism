@@ -1,0 +1,76 @@
+@import '@/assets/scss/global_style';
+
+@media screen and (max-width: map-get($grid-breakpoints, mobile)) {
+
+    .page__title {
+        padding: 0 !important;
+        justify-content: center;
+        
+        * {
+            font-size: 1.5rem !important;
+        }
+    }
+
+    .app {
+        overflow: visible !important;
+    }
+
+    
+
+    
+    div {
+        width: 100% !important;
+    }
+
+    section {
+        width: 100% !important;
+    }
+
+    main {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+
+        .planet__section {
+
+            img {
+                width: 70% !important;
+            }
+        }
+
+        .description__section {
+            width: 100%;
+            text-align: center !important;
+            padding: 0 !important;
+            gap: 20px;
+
+            hr {
+                width: 100% !important;
+            }
+
+            .nav-items {
+                width: 100%;
+                justify-content: center;
+
+
+                li {
+                    width: 10% !important;
+                    font-size: 0.9rem !important;
+                }
+            }
+
+            .text--description {
+                width: 100% !important;
+            }
+
+            .planet_specs--container {
+                display: flex !important;
+                flex-direction: row !important;
+                gap: 25px;
+                justify-content: center;
+            }
+        }
+
+
+    }
+}

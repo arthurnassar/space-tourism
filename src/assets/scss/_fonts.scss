@@ -1,0 +1,46 @@
+@import './variables.scss';
+@import url("https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed:wght@400;700&family=Bellefair&display=swap");
+
+@mixin barlow() {
+    font-family: "Barlow", sans-serif;
+}
+
+@mixin barlow-condensed() {
+    font-family: "Barlow Condensed", sans-serif;
+}
+
+@mixin bellefair() {
+    font-family: "Bellefair", serif;
+}
+
+@mixin font-size($type) {
+
+    @each $name, $value in $font-sizes {
+        @if($type == $name) {
+            font-size: $value !important;
+        }
+    }
+        
+}
+
+@mixin font-family($type) {
+
+    @each $name,
+    $value in $font-families {
+        @if($type == $name) {
+            font-family: $value !important;
+        }
+    }
+
+}
+
+@mixin letter-spacing($type) {
+
+    @each $name,
+    $value in $letter-spacing {
+        @if($type == $name) {
+            letter-spacing: $value  !important;
+        }
+    }
+
+}
