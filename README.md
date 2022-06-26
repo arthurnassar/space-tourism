@@ -86,7 +86,7 @@ O usuário deverá ser capaz de:
 
 ### Feito com
 
--[](./screenshots/icons/html.png) HTML5
+-[HTML](./screenshots/icons/html.png) HTML5
 - CSS 
 - Javascript
 - Flexbox
