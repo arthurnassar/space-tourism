@@ -10,9 +10,6 @@ Esta é a solução para o [Desafio website de Turismo espacial do Frontend Ment
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-      -[Desktop](#desktop)
-      -[Mobile](#Mobile)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,14 +18,14 @@ Esta é a solução para o [Desafio website de Turismo espacial do Frontend Ment
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+- [Screenshot](#screenshot)
+  -[Desktop](#desktop)
+  -[Mobile](#Mobile)
 
 ## Índice
 
 - [Visão geral](#visão-geral)
   - [O desafio](#the-challenge)
-  - [Fotos](#screenshot)
-      -[Desktop](#desktop)
-      -[Mobile](#Mobile)
   - [Links](#links)
 - [Meu processo](#my-process)
   - [Construído com](#built-with)
@@ -37,6 +34,10 @@ Esta é a solução para o [Desafio website de Turismo espacial do Frontend Ment
   - [Recursos úteis](#useful-resources)
 - [Autor](#author)
 - [Reconhecimentos](#acknowledgments)
+- [Fotos](#screenshot)
+  -[Desktop](#desktop)
+  -[Mobile](#Mobile)
+
 
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -59,37 +60,6 @@ O usuário deverá ser capaz de:
 - Visualizar o layout otimizado para cada página do website dependendo do tamnho da tela de seu dispositivo
 - Visualizar os estados de hover para todos os elementos interativos da página
 - Visualizar cada página e conseguir trocar as abas para ver novas informações
-
-### Screenshot
-
-#### Desktop
-![homepage](./screenshots/homepage-desktop.png)
-![homepage](./screenshots/destination-1-desktop.png)
-![homepage](./screenshots/destination-2-desktop.png)
-![homepage](./screenshots/destination-3-desktop.png)
-![homepage](./screenshots/destination-4-desktop.png)
-![homepage](./screenshots/crew-1-desktop.png)
-![homepage](./screenshots/crew-2-desktop.png)
-![homepage](./screenshots/crew-3-desktop.png)
-![homepage](./screenshots/crew-4-desktop.png)
-![homepage](./screenshots/technology-1-desktop.png)
-![homepage](./screenshots/technology-2-desktop.png)
-![homepage](./screenshots/technology-3-desktop.png)
-
-#### Mobile
-![homepage](./screenshots/homepage-mobile.png)
-![homepage](./screenshots/mobile-menu.png)
-![homepage](./screenshots/destination-1-mobile.png)
-![homepage](./screenshots/destination-2-mobile.png)
-![homepage](./screenshots/destination-3-mobile.png)
-![homepage](./screenshots/destination-4-mobile.png)
-![homepage](./screenshots/crew-1-mobile.png)
-![homepage](./screenshots/crew-2-mobile.png)
-![homepage](./screenshots/crew-3-mobile.png)
-![homepage](./screenshots/crew-4-mobile.png)
-![homepage](./screenshots/technology-1-mobile.png)
-![homepage](./screenshots/technology-2-desktop.png)
-![homepage](./screenshots/technology-3-mobile.png)
 
 ### Links
 
@@ -116,7 +86,7 @@ O usuário deverá ser capaz de:
 
 ### Feito com
 
-- HTML5
+-[](./screenshots/icons/html.png) HTML5
 - CSS 
 - Javascript
 - Flexbox
@@ -133,27 +103,10 @@ O usuário deverá ser capaz de:
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-To see how you can add code snippets, see below:
+#### Skills
 
-```html
-<h1>Skills</h1>
-
-<h3>HTML <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg></h3>
-<p> I've reinforced my basic skills of HTML and got a better understanding of the semantic tags</p>
-```
-```css
-h3 {
-  color: red;
-}
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+##### HTML
+I've reinforced my basic skills of HTML and got a better understanding of the semantic tags
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
@@ -185,3 +138,35 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+
+## Screenshot
+
+### Desktop
+![homepage](./screenshots/homepage-desktop.png)
+![destination](./screenshots/destination-1-desktop.png)
+![destination](./screenshots/destination-2-desktop.png)
+![destination](./screenshots/destination-3-desktop.png)
+![destination](./screenshots/destination-4-desktop.png)
+![crew](./screenshots/crew-1-desktop.png)
+![crew](./screenshots/crew-2-desktop.png)
+![crew](./screenshots/crew-3-desktop.png)
+![crew](./screenshots/crew-4-desktop.png)
+![technology](./screenshots/technology-1-desktop.png)
+![technology](./screenshots/technology-2-desktop.png)
+![technology](./screenshots/technology-3-desktop.png)
+
+### Mobile
+![homepage](./screenshots/homepage-mobile.png)
+![menu](./screenshots/mobile-menu.png)
+![destination](./screenshots/destination-1-mobile.png)
+![destination](./screenshots/destination-2-mobile.png)
+![destination](./screenshots/destination-3-mobile.png)
+![destination](./screenshots/destination-4-mobile.png)
+![crew](./screenshots/crew-1-mobile.png)
+![crew](./screenshots/crew-2-mobile.png)
+![crew](./screenshots/crew-3-mobile.png)
+![crew](./screenshots/crew-4-mobile.png)
+![technology](./screenshots/technology-1-mobile.png)
+![technology](./screenshots/technology-2-desktop.png)
+![technology](./screenshots/technology-3-mobile.png)
