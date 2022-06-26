@@ -11,6 +11,8 @@ Esta é a solução para o [Desafio website de Turismo espacial do Frontend Ment
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+      -[Desktop](#desktop)
+      -[Mobile](#Mobile)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -25,6 +27,8 @@ Esta é a solução para o [Desafio website de Turismo espacial do Frontend Ment
 - [Visão geral](#visão-geral)
   - [O desafio](#the-challenge)
   - [Fotos](#screenshot)
+      -[Desktop](#desktop)
+      -[Mobile](#Mobile)
   - [Links](#links)
 - [Meu processo](#my-process)
   - [Construído com](#built-with)
@@ -58,35 +62,72 @@ O usuário deverá ser capaz de:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+#### Desktop
+![homepage](./screenshots/homepage-desktop.png)
+![homepage](./screenshots/destination-1-desktop.png)
+![homepage](./screenshots/destination-2-desktop.png)
+![homepage](./screenshots/destination-3-desktop.png)
+![homepage](./screenshots/destination-4-desktop.png)
+![homepage](./screenshots/crew-1-desktop.png)
+![homepage](./screenshots/crew-2-desktop.png)
+![homepage](./screenshots/crew-3-desktop.png)
+![homepage](./screenshots/crew-4-desktop.png)
+![homepage](./screenshots/technology-1-desktop.png)
+![homepage](./screenshots/technology-2-desktop.png)
+![homepage](./screenshots/technology-3-desktop.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+#### Mobile
+![homepage](./screenshots/homepage-mobile.png)
+![homepage](./screenshots/mobile-menu.png)
+![homepage](./screenshots/destination-1-mobile.png)
+![homepage](./screenshots/destination-2-mobile.png)
+![homepage](./screenshots/destination-3-mobile.png)
+![homepage](./screenshots/destination-4-mobile.png)
+![homepage](./screenshots/crew-1-mobile.png)
+![homepage](./screenshots/crew-2-mobile.png)
+![homepage](./screenshots/crew-3-mobile.png)
+![homepage](./screenshots/crew-4-mobile.png)
+![homepage](./screenshots/technology-1-mobile.png)
+![homepage](./screenshots/technology-2-desktop.png)
+![homepage](./screenshots/technology-3-mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/space-tourismhtmlcssjs-vuejsbootstrapsassjsonrouter-VhcbNuw7-3)
+- Live Site URL: [Live](https://arthurnassar.github.io/space-tourism/)
 
 ## My process
+## O processo
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS
+- Javascript
 - Flexbox
 - CSS Grid
 - [Bootstrap](https://getbootstrap.com/) - 
 - [Sass](https://sass-lang.com) - CSS on Steroids
-- [Vuejs](https://vuejs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
+- [Vuejs](https://vuejs.org/) - JS Framework
+- [Vue Router](https://router.vuejs.org/) - Vue library
+- JSON data management
+- Dynamic webpages
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
+### Feito com
+
+- HTML5
+- CSS 
+- Javascript
+- Flexbox
+- CSS Grid
+- [Bootstrap](https://getbootstrap.com/) - 
+- [Sass](https://sass-lang.com) - CSS buffado
+- [Vuejs](https://vuejs.org/) - Framework JS 
+- [Vue Router](https://router.vuejs.org/) - Livraria Vue
+- Manuseio de dados em JSON
+- Páginas Web dinâmicas
+
 
 ### What I learned
 
@@ -95,9 +136,15 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>Skills</h1>
+
+<h3>HTML <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg></h3>
+<p> I've reinforced my basic skills of HTML and got a better understanding of the semantic tags</p>
 ```
 ```css
+h3 {
+  color: red;
+}
 .proud-of-this-css {
   color: papayawhip;
 }
