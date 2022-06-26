@@ -70,7 +70,7 @@ O usuário deverá ser capaz de:
 ### Built with
 
 - ![HTML](./screenshots/icons/html.png) HTML5
-- ![CSS](./screenshots/icons/css3.png.png) CSS
+- ![CSS](./screenshots/icons/css3.png) CSS
 - ![JS](./screenshots/icons/javascript.png) Javascript
 - Flexbox
 - ![BOOTSTRAP](./screenshots/icons/bootstrap.png) [Bootstrap](https://getbootstrap.com/) - 
@@ -84,7 +84,7 @@ O usuário deverá ser capaz de:
 ### Feito com
 
 - ![HTML](./screenshots/icons/html.png) HTML5
-- ![CSS](./screenshots/icons/css3.png.png) CSS 
+- ![CSS](./screenshots/icons/css3.png) CSS 
 - ![JS](./screenshots/icons/javascript.png) Javascript
 - Flexbox
 - ![BOOTSTRAP](./screenshots/icons/bootstrap.png) [Bootstrap](https://getbootstrap.com/) - 
